@@ -1,0 +1,5 @@
+// helps coder
+// npm init -y ----package
+// npm install typescript --save-Dev
+// npx tsc --init --rootDir src --outDir build
+// npx tsc
